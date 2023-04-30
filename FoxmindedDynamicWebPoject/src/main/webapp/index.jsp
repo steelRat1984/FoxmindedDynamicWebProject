@@ -17,7 +17,7 @@
 	%>
 	
 	
-	<h2>Add a Book</h2>
+	<h2>Add a book</h2>
 	<form method="POST">
 		<label for="id">ID:</label>
 		<input type="number" name="id" id="id"><br>
