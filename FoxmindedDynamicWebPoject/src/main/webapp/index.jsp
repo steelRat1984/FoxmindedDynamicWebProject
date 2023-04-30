@@ -42,7 +42,7 @@
 	}
 	%>
 	
-	<h3>Delete a Book</h3>
+	<h3>Delete a book</h3>
 	<form method="POST">
 		<label for="deleteName">Name:</label>
 		<input type="text" name="deleteName" id="deleteName"><br>
